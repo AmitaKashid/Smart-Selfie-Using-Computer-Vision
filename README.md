@@ -14,6 +14,8 @@ Facial expression for emotion detection has always been an easy task for humans,
 
 ## :classical_building: Architecture:
 
+![image](https://user-images.githubusercontent.com/49828170/142721066-85ee8b15-51da-4fbe-b8f7-237e3743b8d2.png)
+
 
 ## :loop: Tech Stack used :point_down:
 - Python
