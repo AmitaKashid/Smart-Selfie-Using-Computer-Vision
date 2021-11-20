@@ -8,9 +8,12 @@ Facial expression for emotion detection has always been an easy task for humans,
 
 
 - **Real-time Video input** <br>
-<img width="891" alt="nuetral" src="https://user-images.githubusercontent.com/57671048/98197451-c8192a00-1f4c-11eb-8b9f-e752acce1127.png"><br>
+![Screenshot 2021-11-20 143551](https://user-images.githubusercontent.com/49828170/142720806-6325ecff-debe-4233-acb7-1da9410026fb.png)
 
 - It predicts the **Emotion of users** and also gives **Graphical Visualization** of **Emotions** as shown above.
+
+## :classical_building: Architecture:
+
 
 ## :loop: Tech Stack used :point_down:
 - Python
