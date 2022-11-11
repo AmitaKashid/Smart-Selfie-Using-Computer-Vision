@@ -54,18 +54,6 @@ Facial expression for emotion detection has always been an easy task for humans,
 3. FacesDB
 
 
-## Contributors :fire:
-Thanks to all these wonderful developers who made this project awesome!:raised_hands:
-<!-- If you click on the image it would take to your GitHub profile -->
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
 ## Authors
 - [Amita Kashid](https://github.com/AmitaKashid)
 - [Pranali Khilari](https://github.com/)
