@@ -65,3 +65,7 @@ Thanks to all these wonderful developers who made this project awesome!:raised_h
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
+## Authors
+- [Amita Kashid](https://github.com/AmitaKashid)
+- [Pranali Khilari](https://github.com/)
