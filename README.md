@@ -61,9 +61,7 @@ Thanks to all these wonderful developers who made this project awesome!:raised_h
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-<a href="https://github.com/SanjayMarreddi/Facial-Expression-Recognition-Classifier-Model/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SanjayMarreddi/Facial-Expression-Recognition-Classifier-Model" />
-</a>
+
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
