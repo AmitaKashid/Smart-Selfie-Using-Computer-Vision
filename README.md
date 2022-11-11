@@ -52,3 +52,18 @@ Facial expression for emotion detection has always been an easy task for humans,
 1. Karolinska Directed Emotional Faces(KDEF)
 2. Japanese Female Facial Expression(JAFFE)
 3. FacesDB
+
+
+## Contributors :fire:
+Thanks to all these wonderful developers who made this project awesome!:raised_hands:
+<!-- If you click on the image it would take to your GitHub profile -->
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<a href="https://github.com/SanjayMarreddi/Facial-Expression-Recognition-Classifier-Model/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SanjayMarreddi/Facial-Expression-Recognition-Classifier-Model" />
+</a>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
