@@ -56,4 +56,4 @@ Facial expression for emotion detection has always been an easy task for humans,
 
 ## Authors
 - [Amita Kashid](https://github.com/AmitaKashid)
-- [Pranali Khilari](https://github.com/)
+- [Pranali Khilari](https://github.com/pranalikhilari)
